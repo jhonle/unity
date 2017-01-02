@@ -1,0 +1,16 @@
+﻿using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+public class ControlPosiciones : MonoBehaviour {
+
+    List<GameObject> muros = new List<GameObject>();
+	void Start ()
+    {
+        GameObject.FindGameObjectsWithTag("muro");
+	}
+	
+	// Update is called once per frame
+	void Update () {
+	
+	}
+}

@@ -1,0 +1,7 @@
+si 0 50 9 7 60 pesado 5 defensiva
+si 1 45 7 6 45 pesado 8 defensiva
+si 2 47 12 9 47 pesado 10 defensiva
+si 3 43 8 6 52 pesado 3 defensiva
+no 0 50 4 12 54 ligero 7 ofensiva
+no 1 30 9 9 43 ligero 5 ofensiva
+no 3 72 6 8 48 ligero 11 ofensiva
